@@ -1,2 +1,1 @@
-# git workshop
- what is git ??
+This is a repository that implements algorithms in C-PLUS-PLUS
